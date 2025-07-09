@@ -41,11 +41,5 @@ Para configurar e rodar o projeto:
 * **Python 3.x** instalado.
 * **PostgreSQL** instalado e rodando
 
-## Autor
-*Desenvolvido por Gustavo
-*Estudante de Análise e Desenvolvimento de Sistemas
-*Gmail: 09.gustavoribeiro@gmail.com
-*LinkedIn: https://www.linkedin.com/in/gustavo-ribeiro-barbosa-b42971269/
-
 Licença
 Projeto educacional de código aberto. Sinta-se à vontade para estudar e modificar.
